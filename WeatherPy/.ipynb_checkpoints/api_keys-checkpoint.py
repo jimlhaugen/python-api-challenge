@@ -1,6 +1,6 @@
 # Adding config.py file
 
-api_keys.py
+#api_keys.py
 
 # OpenWeatherMap API Key
 weather_api_key = "1246b2d046e19271d6a0e4cc6928c505"
